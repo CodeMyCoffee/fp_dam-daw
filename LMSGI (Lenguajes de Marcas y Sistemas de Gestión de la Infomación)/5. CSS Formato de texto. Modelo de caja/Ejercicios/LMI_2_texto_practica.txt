@@ -1,0 +1,57 @@
+Parte I: Reconocimiento de las características de lenguajes de marcas:
+U1. Introducción 
+Concepto
+Tipos
+Evolución histórica
+Lenguajes y tecnologías asociadas a XML
+Parte II: Utilización de lenguajes de marcas en entornos web
+U2. XHTML y CSS
+Introducción XHTML. Estructura y partes del documento
+Introducción CSS. Estructura y apariencia.
+Texto. Etiquetas XHTML y propiedades de estilo CSS
+Listas. Etiquetas y propiedades de estilo
+Tablas. Etiquetas y propiedades de estilo
+Enlaces. Etiquetas y propiedades de estilo
+Imagenes y mapas de imagen. Etiquetas y propiedades de estilo
+Formularios. Etiquetas y propiedades de estilo
+CSS Avanzado
+Parte III: Estructura y vocabularios en XML 
+U3. Introducción a XML. 
+XML: estructura y sintaxis.
+Etiquetas.
+Herramientas de edición.
+Elaboración de documentos XML bien formados.
+Utilización de espacios de nombres en XML.
+U4. Gramáticas: DTD. 
+Utilización de métodos de definición de documentos XML.
+Creación de descripciones.
+Asociación con documentos XML.
+Validación.
+Herramientas de creación y validación.
+U5. Gramáticas: XML-Schema. 
+Utilización de métodos de definición de documentos XML.
+Creación de descripciones.
+Asociación con documentos XML.
+Validación.
+Herramientas de creación y validación.
+
+Parte IV:  Aplicación de los lenguajes de marcas a la sindicación de contenidos
+U6. Sindicación de contenidos: RSS. 
+Ámbitos de aplicación.
+Estructura de los canales de contenidos.
+Tecnologías de creación de canales de contenidos.
+Validación.
+Directorios de canales de contenidos.
+Agregación.
+Parte V:  Almacenamiento de información. Lenguajes de consulta 
+U7. XPATH
+Definición y aplicación
+Identificación de elementos. Arbol del documento
+Sintaxis del XPATH
+Parte VI: Conversión y adaptación de documentos XML
+U8. XSLT
+Técnicas de transformación de documentos XML.
+Descripción de la estructura y de la sintaxis.
+Utilización de plantillas. 
+Utilización de herramientas de procesamiento.
+Elaboración de documentación. 

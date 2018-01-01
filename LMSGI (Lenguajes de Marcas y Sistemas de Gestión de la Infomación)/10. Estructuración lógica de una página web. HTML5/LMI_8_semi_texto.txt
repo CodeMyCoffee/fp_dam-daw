@@ -1,0 +1,44 @@
+Casa Pepe
+
+Primero
+
+Segundo
+
+Postre
+
+Precio
+
+Primero
+
+Macarrones al dente
+
+Paella Valenciana
+A elegir uno de los tres platos
+
+Segundo
+
+Pollo asado
+Milanesa
+Hamburguesa
+
+
+A elegir uno de los tres platos
+Acompañamiento a elegir: ensalada o patatas fritas
+Postre
+
+Flan
+
+Fruta
+
+Café
+El menú incluye postre o café, pero no ambos
+Bebida no incluida en el precio
+Precio
+
+Y todo esto por la increíble cantidad de 7 €
+IVA incluido
+Bebida no incluida en el precio
+
+C/La pata gansa, 25
+46001 Valencia
+Reservas: 96123456

@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------
+<A> y </A>
+Sirve para crear enlaces a otros documentos.
+name: identifica un elemento
+href: sirve como referencia a otro documento o recurso
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<ABBR> y </ABBR>
+Para definir abreviaturas
+tittle: significado de la abreviatura
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<ACRONIM> y </ACRONIM>
+Para definir acrónimos
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<ADDRESS> y </ADDRESS>
+Firma de un documento
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<BLOCKQUOTE> y </BLOCKQUOTE>
+Para reseñar citas que ocupen uno o más párrafos
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<BODY> y <BODY>
+Delimitan el cuerpo del documento
+lang: determina el idioma del texto
+dir: determina la direción del texto
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<BR />
+Salto de línea. Carece de elemento de cierre VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<CITE> y </CITE>
+Estilo lógico que se utiliza con citas o referencias a otras fuentes
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
+<CODE> y </CODE>
+Estilo lógico que se utiliza para representar un fragmento de código de ordenador
+VOLVER ARRIBA
+--------------------------------------------------------------------------------
